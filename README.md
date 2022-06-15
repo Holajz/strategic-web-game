@@ -1,14 +1,9 @@
 # Ants
 
 ### Základní zadání
-Cieľom projektu je implementovať hru Mravenci:
+Cílem projektu bylo implementovat hru mravenci s možností hraní proti jinému hráči
 https://www.instaluj.cz/mravenci
 http://panda38.sweb.cz/software.html
-
-- možnost vytvářet hry po síti (případně hrát 'proti počítači', jehož  přístup ke hře můžeme případně vytvořit)
-- hra by byla hratelná pomocí webového GUI
-- vytvořili bychom API pro programátory pro možnost hrát přes vlastní  modul / reinforcement learning stroj...
-- backend bude zaznamenávat dokončené hry do DB a poskytne možnost  stažení dat pro analýzu / strojové učení
 
 ### Jak funguje hra Mravenci
 Cílem hry je zničit hrad protihráče anebo postavit svůj hrad vysoký 100 a více jednotek.
